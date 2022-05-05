@@ -1,0 +1,23 @@
+.logo {
+  width: 60px;
+  height: 60px;
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+nav {
+  width: 200px;
+  height: 360px;
+  border-radius: 15px;
+  background: black;
+  position: absolute;
+  left: 0px;
+  top: 70px;
+  display: flex;
+  flex-direction: column;
+}
+#flex-item {
+  margin: 20px;
+  font-size: 20px;
+}
